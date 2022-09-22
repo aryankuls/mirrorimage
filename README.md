@@ -1,2 +1,2 @@
-# mirrorimage
-Mirror an YUV 420 image
+# Mirror Image
+Mirror a YUV 420 image
